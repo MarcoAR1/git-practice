@@ -5,4 +5,4 @@ function fib(n) {
   return fib(n - 1) + fib(n - 2)
 }
 
-console.log('vamos a ver quien edita primero y entra sin conflicto!')
+console.log('ahora me toca resolver el conflicto a mi!')
